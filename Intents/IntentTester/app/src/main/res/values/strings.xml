@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent Tester</string>
+    <string name="web_button">Web Browser</string>
+    <string name="call_button">Make Calls</string>
+    <string name="web_address">https://www.amazon.com/</string>
+    <string name="chooser_text">Load %1$s with:</string>
+    <string name="phone_number">tel:+194912344444</string>
+    <string name="app_my_browser">My Browser</string>
+</resources>

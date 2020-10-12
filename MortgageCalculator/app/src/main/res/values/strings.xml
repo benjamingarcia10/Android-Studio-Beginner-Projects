@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="amountBorrowed">Amount Borrowed</string>
+    <string name="interestRate">"Interest Rate: "</string>
+    <string name="loanTerm">Loan Term</string>
+    <string name="taxes">Include Taxes and Insurance</string>
+    <string name="calculate">Calculate</string>
+    <string name="monthlyPayment">Monthly Payment</string>
+    <string name="loan15">15 Years</string>
+    <string name="loan20">20 Years</string>
+    <string name="loan30">30 Years</string>
+    <string name="initialMonthlyPayment">$0.00</string>
+    <string name="amountInputError">Please enter a valid amount.</string>
+</resources>
