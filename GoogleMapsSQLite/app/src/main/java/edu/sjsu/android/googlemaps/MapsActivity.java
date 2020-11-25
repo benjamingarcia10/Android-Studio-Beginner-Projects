@@ -37,6 +37,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     @Override
     public void onMapReady(GoogleMap googleMap) {
+        LoaderManager.getInstance(this).initLoader(0, null, this);
         map = googleMap;
 
         map.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
