@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Search</string>
+    <string name="favoritesPrefName">FAVORITES</string>
+    <string name="tickersPrefKey">TICKERS</string>
+    <string name="addToFavText">ADD TO FAVORITES</string>
+    <string name="removeFromFavText">REMOVE FROM FAVORITES</string>
+</resources>
